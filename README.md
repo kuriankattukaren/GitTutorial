@@ -3,4 +3,4 @@ Demonstrate GIT for BSP
 
 ## GITHUB TUTORIAL
 
-This tutorial shows how to start using GITHUB.
+This tutorial shows how to start using GITHUB using branching....
